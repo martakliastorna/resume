@@ -1,0 +1,225 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: E5E5E5;
+    width: 1200px;
+    margin: 0 auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+
+.main-content {
+position: absolute;
+    width: 1200px;
+    height: 1450px;
+    left: 80px;
+    top: 40px;
+    background: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.about-user {
+/* text-intro */
+
+
+    position: absolute;
+    width: 400px;
+    height: 236px;
+    left: 498px;
+    top: 66px;
+    margin-bottom: 40px;
+   
+}
+.about-position
+{
+font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+margin-bottom: 20px;
+    color: #000000;
+}
+.about-name
+{
+    font-style: normal;
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 55px;
+    margin-bottom: 25px;
+        color: #000000;
+}
+
+.about-description
+{
+font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #595959;
+}
+
+
+.work {
+position: absolute;
+    width: 525px;
+    height: 213px;
+    left: 498px;
+    top: 451px;
+}
+
+.title
+{
+font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.work-position
+{
+font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #000000;
+}
+
+.organization
+{
+    font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+        /* identical to box height */
+    
+    
+        color: #FB6D3A;
+}
+.data
+{
+font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    color: #A8A8A8;
+}
+.education{
+position: absolute;
+    width: 400px;
+    height: 514px;
+    left: 498px;
+    top: 988px;
+  margin-bottom: 300p;
+    }
+
+.aside{
+    padding-top: 40px;
+        position: absolute;
+        width: 370px;
+        height: 1360px;
+        left: 113px;
+        top: 53px;
+    
+        background: #1E2939;}
+
+.photo{
+position: absolute;
+    width: 270px;
+    height: 330px;
+    left: 95px;
+    top: 93px;
+background: url(photo.jpg);
+}
+
+.contacts{
+position: absolute;
+    width: 183px;
+    height: 83px;
+    left: 103px;
+    top: 538px;
+    margin-bottom: 50px;
+}
+.sidebar-title
+{
+    font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 27px;
+        color: #FFFFFF;
+        margin-bottom: 10px;
+}
+.contact-type
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.contact-link
+{
+    font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        text-decoration-line: underline;
+    
+        color: #595959;
+}
+
+.tech-skills{
+position: absolute;
+width: 121px;
+height: 203px;
+left: 103px;
+top: 698px;
+}
+.prog {
+position: absolute;
+width: 121px;
+height: 203px;
+left: 103px;
+top: 998px;   
+}
+.soft-skills{
+position: absolute;
+    width: 113px;
+    height: 131px;
+    left: 103px;
+    top: 875px;
+}
+.tech-skills-list
+{
+    padding: 0;
+    margin-left: 23px;
+}
+
+.tech-skills-text
+{
+font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+
+    color: #FFFFFF;
+}
+
+.tech-skills-iten
+{
+    
+    color: #FB6D3A;
+}
